@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2023
+    },
+    {
+        "id": 2,
+        "make": "mazda",
+        "model": "cx5",
+        "year": 2015
+    },
+    {
+        "id": 3,
+        "make": "suzuki",
+        "model": "celerio",
+        "year": 2017
+    },
+    {
+        "id": 5,
+        "make": "Audi",
+        "model": "Q2",
+        "year": 2018
+    }
+]
